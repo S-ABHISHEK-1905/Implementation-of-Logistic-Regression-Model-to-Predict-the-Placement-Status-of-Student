@@ -77,10 +77,10 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 
 ### data.head():
-![the Logistic Regression Model to Predict the Placement Status of Student](data.head.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](dat.head.png)
 
 ### ACCURACY:
-![the Logistic Regression Model to Predict the Placement Status of Student](accuracy.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](accura.png)
 
 ### CONFUSION MATRIX:
 ![the Logistic Regression Model to Predict the Placement Status of Student](confusion.png)
