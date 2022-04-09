@@ -12,6 +12,9 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Import LabelEncoder using sklearn.preprocessing library.
 3. Transform the data's using LabelEncoder.
 4. Import Logistic regression module from sklearn.linear_model library to predict the values.
+5. Find accuracy , confusion matrix and classification report using sklearn.metrics library.
+6. Predict for the new given values.
+7. End of the program.
 
 ## Program:
 ```
